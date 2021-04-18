@@ -3,3 +3,6 @@
 **/build
 **/captures
 **/local.properties
+
+# We already have this root .gitignore
+*/**/.gitignore 
